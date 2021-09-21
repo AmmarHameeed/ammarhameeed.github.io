@@ -654,7 +654,7 @@ color: #1F1F41;
     margin-bottom: 16px;
   }
   .searchbar input[type="search"] {
-    width: 229px;
+    width: 100%;
   }
   .table-action-item i {
     margin-right: 0;
