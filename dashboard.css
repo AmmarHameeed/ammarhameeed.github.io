@@ -681,11 +681,13 @@ color: #1F1F41;
   }
   .content-middle-mobile {
     display: flex;
+    width: 37%;
     flex-flow: column;
     justify-content: center;
   }
   .content-right-mobile {
     display: flex;
+    width: 54%;
     flex-flow: column;
     align-items: end;
   }
